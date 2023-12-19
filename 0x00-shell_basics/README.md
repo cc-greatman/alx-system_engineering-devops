@@ -5,7 +5,7 @@ This directory cover basic shell commands.
 3. Change current directory to user home directory - ```2-bring_me_home```
 	Note: for use of '3' ```eg: source ./2-bring_me_home```
 4. List files of the current directory in long format - ```3-listfiles```
-5. List files of the current directory in long format including hdden files - ```4-listmorefiles```
+5. List files of the current directory in long format including hidden files - ```4-listmorefiles```
 
 
 All commands in each file can be made executable with ```chmod u+x```
