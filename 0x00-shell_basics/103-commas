@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1am
+ls -p1am
